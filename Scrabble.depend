@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1626407731 source:c:\users\usuario\documents\pio ix 5°\programacion\trabajos practicos\scrabble\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
